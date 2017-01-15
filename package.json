@@ -1,0 +1,22 @@
+{
+  "name": "myangular201",
+  "version": "1.0.0",
+  "description": "angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhuhuijun/20170115angular2.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "zhuhj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuhuijun/angular20170115/issues"
+  },
+  "homepage": "https://github.com/zhuhuijun/angular20170115"
+}
